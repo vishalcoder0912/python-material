@@ -1,7 +1,7 @@
 import random
 import string
-pass_len=12
-charvalues=string.ascii_letters+string.ascii_letters+string.punctuation
+pass_len=16
+charvalues=string.ascii_letters+string.ascii_letters+string.punctuation+string.digits
 # print(string.ascii_letters)
 # print(string.ascii_lowercase)
 # print(string.ascii_uppercase)
